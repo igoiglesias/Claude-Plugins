@@ -1,0 +1,13 @@
+{
+  "name": "iglesias-plugins",
+  "owner": {
+    "name": "Igor Iglesias"
+  },
+  "plugins": [
+    {
+      "name": "testing-sentinel",
+      "source": "./testing-sentinel",
+      "description": "Automated testing best practices enforcer inspired by SQLite, Chromium, NASA/JPL, curl, and Redis."
+    }
+  ]
+}
