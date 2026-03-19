@@ -1,0 +1,23 @@
+{
+  "name": "testing-sentinel",
+  "version": "1.0.0",
+  "description": "Automated testing best practices enforcer inspired by SQLite, Linux Kernel, Chromium, NASA/JPL, curl, and Redis. Provides slash commands, specialized agents, skills, and hooks to enforce world-class testing standards in any codebase.",
+  "author": {
+    "name": "Igor Iglesias",
+    "url": "https://bio.iglesias.dev.br"
+  },
+  "repository": "https://github.com/igorlnunes/testing-sentinel",
+  "license": "MIT",
+  "keywords": [
+    "testing",
+    "quality",
+    "coverage",
+    "fuzz",
+    "regression",
+    "ci-cd",
+    "best-practices",
+    "automation",
+    "static-analysis",
+    "mutation-testing"
+  ]
+}
