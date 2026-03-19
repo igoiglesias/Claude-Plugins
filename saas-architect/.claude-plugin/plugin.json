@@ -1,0 +1,23 @@
+{
+  "name": "saas-architect",
+  "version": "1.0.0",
+  "description": "Assistente completo para construção de SaaS — do ICP ao scale. Cobre Product-Led Growth, funil automatizado, pricing, métricas, retenção, SEO/AEO, ABM, e stack técnico. Baseado em práticas reais de empresas como Stripe, Slack, HubSpot e Notion.",
+  "author": {
+    "name": "Igor Iglesias",
+    "url": "https://bio.iglesias.dev.br"
+  },
+  "repository": "https://github.com/igorlnunes/saas-architect",
+  "license": "MIT",
+  "keywords": [
+    "saas",
+    "startup",
+    "product-led-growth",
+    "pricing",
+    "onboarding",
+    "churn",
+    "mrr",
+    "funnel",
+    "retention",
+    "growth"
+  ]
+}
