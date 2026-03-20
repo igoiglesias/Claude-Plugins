@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "browser-devtools": {
+      "command": "${CLAUDE_PLUGIN_DATA}/venv/bin/python",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/server.py"],
+      "env": {
+        "PYTHONUNBUFFERED": "1",
+        "PYTHONDONTWRITEBYTECODE": "1"
+      }
+    }
+  }
+}

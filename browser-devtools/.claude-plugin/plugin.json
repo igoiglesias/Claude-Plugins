@@ -1,0 +1,8 @@
+{
+  "name": "browser-devtools",
+  "description": "Browser automation for Claude Code: open pages, take screenshots, inspect HTML/DOM, monitor console & network errors, run Lighthouse audits, execute JavaScript, check accessibility — all from natural language.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Igor Iglesias"
+  }
+}
